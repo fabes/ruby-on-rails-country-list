@@ -20,7 +20,7 @@ rake misc:import_countries
 ```
 Give it a few and thats it!
 
-##### Issues
-If you encounter any issues, please feel free to let me know [here](https://github.com/fabes/ruby-on-rails-country-list/issues)
+##### Issues or Suggestions?
+If you encounter any issues or have a suggestion, please feel free to let me know [here](https://github.com/fabes/ruby-on-rails-country-list/issues)
 
 

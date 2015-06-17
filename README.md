@@ -2,7 +2,8 @@
 A CSV with a list of countries, cities, lats/longs, altitude is included.
 
 ### How to
-Ensure you have the appropriate model setup before perform the rake task.
+Ensure you have the appropriate model setup and the directory is moved to lib/tasks/ before performing the rake task.
+
 
 ##### Model Setup
 ```ruby
